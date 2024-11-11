@@ -57,7 +57,8 @@ Mengapa dilakukan demikian yaitu Metode ini digunakan untuk mengelola data atau 
 
 Praktikum 3
 Hasilnya
-![WhatsApp Image 2024-11-11 at 10 57 13_7402dcd5](https://github.com/user-attachments/assets/2e8c4e8e-8d66-4392-bce9-a91d9591965d)
+![image](https://github.com/user-attachments/assets/e8b2b536-27be-423c-b443-2fef7e8b2304)
+
 Tugas Praktikum 3
 2.Berdasarkan Praktikum 3 yang telah Anda lakukan, jelaskan maksud dari gambar diagram berikut ini!
 Jika diagram yang dimaksud adalah diagram alur atau flowchart, biasanya diagram ini menggambarkan langkah-langkah atau urutan proses dalam suatu sistem, mulai dari input, proses, hingga output. Dalam konteks praktikum Flutter, ini mungkin menggambarkan bagaimana data atau status berpindah antar widget, bagaimana widget merespons interaksi pengguna, atau bagaimana state diubah dan diperbarui.
@@ -69,7 +70,8 @@ Jika yang dimaksud adalah diagram widget tree dalam konteks Flutter, diagram ini
 Tujuan diagram ini adalah untuk memberikan gambaran secara visual tentang bagaimana aplikasi atau sistem berfungsi, interaksi antar komponen, dan aliran data atau status.
 
 3. Lakukan capture hasil dari Langkah 14 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
-  ![WhatsApp Image 2024-11-11 at 10 57 13_32f12e50](https://github.com/user-attachments/assets/c3b9024f-7dcc-46f7-ab34-2628d3ba8aaf)
+   ![image](https://github.com/user-attachments/assets/dfe7d9f8-05de-45ab-b606-c02eaa5b2d43)
+  
 penjelasan:
 Sistem UI dan Tema:
 -Status bar transparan dengan ikon putih
